@@ -16,7 +16,7 @@
     "url": "https://github.com/reginaldotibr/tarefas-02-06-2026/issues"
   },
   "homepage": "https://github.com/reginaldotibr/tarefas-02-06-2026#readme",
-  "description": "",
+  "description": "````Execute o comando`:\r ```bash\r npm init -y\r ```\r ## 2 dependencias do projeto\r npm install express mysql2 bcryptjs express-session ejs prisma @prisma/client",
   "dependencies": {
     "@prisma/client": "^7.8.0",
     "bcryptjs": "^3.0.3",
@@ -25,5 +25,6 @@
     "express-session": "^1.19.0",
     "mysql2": "^3.22.4",
     "prisma": "^7.8.0"
-  }
+  },
+  "type": "commonjs"
 }
